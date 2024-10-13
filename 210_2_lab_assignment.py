@@ -25,16 +25,7 @@ result_age_hours = str(hasBeenAliveHours())
 print('The person has been living for ' + result_age_hours + ' hours.')
 
 
+num1 = 19
+num2 = '19'
 
-
-
-
-
-
-
-
-
-
-
-
-
+print(num1 + int(num2))
